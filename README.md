@@ -12,16 +12,16 @@ Here is a regular expression for the same.
 Regular Expression: https?:\/\/[www]*\.?([^www][\w]+)\.[^co][\w]+\..*
 
 We have tested it with following test cases.
-https://www.bb.microsoft.com
-https://www.blog.microsoft.com/test/test
-https://www.microsoft.com/
-https://www.blog123.microsoft.com/test/test
-https://www.blog123.microsoft.uk
-https://www.blog123.microsoft.io
-https://123blog.microsoft.co/test/test
-https://nikhilesh.com/
-https://doc.google.com/document/d/
-https://www.microsoft.co.in/
-https://microsoft.co.uk/
+- https://www.bb.microsoft.com
+- https://www.blog.microsoft.com/test/test
+- https://www.microsoft.com/
+- https://www.blog123.microsoft.com/test/test
+- https://www.blog123.microsoft.uk
+- https://www.blog123.microsoft.io
+- https://123blog.microsoft.co/test/test
+- https://nikhilesh.com/
+- https://doc.google.com/document/d/
+- https://www.microsoft.co.in/
+- https://microsoft.co.uk/
 
 
